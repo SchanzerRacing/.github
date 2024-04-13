@@ -1,4 +1,8 @@
-![Schanzer Racing Banner](Logo-Schanzer.png)
+<div align="center">
+    <a target="_blank" rel="noopener noreferrer" href="shttps://schanzer-racing.de">
+        <img src="https://github.com/SchanzerRacing/.github/blob/main/profile/Logo-Schanzer.png?raw=true"/>
+    </a>
+</div>
 
 # Schanzer Racing Electric
 
