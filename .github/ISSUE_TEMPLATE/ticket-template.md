@@ -4,16 +4,11 @@ about: Minimum information for an issue to be used as a ticket.
 title: Ticket
 labels: ''
 assignees: ''
-
 ---
 
 #### Description
 
 Describe the bug, issue or enhancement.
-
-#### User story
-
-As a developer I want an explanation from the point of view of a user (usually us as developers), what the final result should be.
 
 #### Acceptance criteria
 
