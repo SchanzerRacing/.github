@@ -1,4 +1,13 @@
-    # New Member Onboarding Plan
+---
+name: DV Onboarding
+about: New Memebr Onboarding Plan
+title: "[Member Name] - Driverless - New Member Onboarding Plan"
+labels: ''
+assignees: ''
+
+---
+
+# New Member Onboarding Plan
 
 Welcome to the Autonomous Driving subteam! This onboarding checklist will guide you through the essential tools and technologies needed to contribute confidently to our projects.
 
