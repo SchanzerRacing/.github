@@ -1,9 +1,47 @@
 <div align="center">
-    <a target="_blank" rel="noopener noreferrer" href="shttps://schanzer-racing.de">
-        <img src="https://github.com/SchanzerRacing/.github/blob/main/profile/Logo-Schanzer.png?raw=true"/>
+    <a target="_blank" rel="noopener noreferrer" href="https://schanzer-racing.de">
+        <img src="https://github.com/SchanzerRacing/.github/blob/main/profile/Logo-Schanzer.png?raw=true" alt="Schanzer Racing Electric Logo" />
     </a>
 </div>
 
-# Schanzer Racing Electric
+<h1 align="center">Schanzer Racing Electric</h1>
 
-Welcome to the Github Organisation of Schanzer Racing Electric! We are a student team from the Technical University of Ingolstadt and we are building an electric racecar to compete in the Formula Student Electric competition. Our team consists of students from various fields of study, such as mechanical engineering, electrical engineering, computer science, business administration and many more. We are always looking for new members to join our team and help us build the best electric racecar possible. If you are interested in joining our team, please visit our [website](https://schanzer-racing.de) or contact us via [email](mailto:info@schanzer-racing.de).
+<p align="center">
+  Student-driven innovation. Electric performance. Formula Student ambition.
+</p>
+
+---
+
+## Welcome to Schanzer Racing Electric
+
+We are **Schanzer Racing Electric**, the Formula Student team of the **Technical University of Ingolstadt**.  
+Our mission is to design, develop, and build a high-performance **electric race car** to compete against top student teams from around the world in **Formula Student Electric**.
+
+Driven by passion, innovation, and teamwork, our organization brings together students from a wide range of disciplines, including:
+
+- Mechanical Engineering  
+- Electrical Engineering  
+- Computer Science  
+- Business Administration  
+- And many more  
+
+Together, we combine technical expertise, creativity, and determination to push the limits of student motorsport.
+
+## Our work on GitHub
+
+Our repositories reflect the work that goes into Schanzer Racing Electric behind the scenes — from software and embedded systems to tools, infrastructure, and team projects.
+
+## Join the team
+
+We are always looking for motivated students who want to help shape the future of electric racing. Whether your strengths are in engineering, software, design, management, or organization, there is a place for you in our team.
+
+Interested in becoming part of Schanzer Racing Electric?
+
+🌐 Visit our [website](https://schanzer-racing.de)  
+📩 Contact us via [email](mailto:info@schanzer-racing.de)
+
+---
+
+<p align="center">
+  <b>Schanzer .. Power!</b>
+</p>
