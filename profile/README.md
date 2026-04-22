@@ -27,10 +27,6 @@ Driven by passion, innovation, and teamwork, our organization brings together st
 
 Together, we combine technical expertise, creativity, and determination to push the limits of student motorsport.
 
-## Our work on GitHub
-
-Our repositories reflect the work that goes into Schanzer Racing Electric behind the scenes — from software and embedded systems to tools, infrastructure, and team projects.
-
 ## Join the team
 
 We are always looking for motivated students who want to help shape the future of electric racing. Whether your strengths are in engineering, software, design, management, or organization, there is a place for you in our team.
