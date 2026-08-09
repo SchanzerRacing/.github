@@ -14,8 +14,8 @@
 
 ## Welcome to Schanzer Racing Electric
 
-We are **Schanzer Racing Electric**, the Formula Student team of the **Technical University of Ingolstadt**.  
-Our mission is to design, develop, and build a high-performance **electric race car** to compete against top student teams from around the world in **Formula Student Electric**.
+We are **Schanzer Racing Electric**, the Formula Student team of the **University of Applied Sciences Ingolstadt**.  
+Our mission is to design, develop, and build a high-performance **electric race car** to compete against top student teams from all around the world in **Formula Student Electric**.
 
 Driven by passion, innovation, and teamwork, our organization brings together students from a wide range of disciplines, including:
 
